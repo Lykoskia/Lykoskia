@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lykoskia" alt="lykoskia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lykoskia" alt="lykoskia" /></a> </p>
 
 - 🔭 I’m currently working on [HUB3 Barcode Generator](https://github.com/Lykoskia/hub3-barcode-generator/tree/master) & [React Chat App](https://github.com/Lykoskia/react-chat-app/tree/master)
 
