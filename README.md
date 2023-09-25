@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **zeliarder@gmail.com**
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lykoskia" alt="lykoskia" /></a> </p>
+
 <p align="left">
 </p>
 
