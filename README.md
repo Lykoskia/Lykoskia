@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced React Concepts & Frameworks**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** & **Next**
 
 
   
