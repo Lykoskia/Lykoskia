@@ -30,8 +30,6 @@ I spent most of the (fittingly named) fall fixing, upgrading and polishing these
 <p align="left">Also, did you know that you can't intercept virtual keyboards (such as on mobile phones) with the onKeyDown event because it's not an actual physical key? Yes, I know it's obvious, which is why I learned about it immediately after attempting everything else because it was the first thing that came to mind after everything else failed.</p>
 
 <p align="left">But all the grievances aside, I feel like the reward for that absolute hell is just as amazing as the learning process was brutal. I ended up building 3 things that I'm very proud of, cutting my teeth on every step of the way, but emerging with a much deeper understanding than 3 years of tutorials had given me. After all, a project is never done, and I will probably come back to all of them to improve upon them in some way with new ideas and features. It's not over when you lose, it's over when you quit. My hundreds of uncompiled builds and failed deployments are a testament of that. Even though I ended up deleting most of the early commits.</p>
-
-<img src="https://scontent-vie1-1.cdninstagram.com/v/t39.30808-6/397918890_773343761471066_1503818097764257091_n.jpg?stp=dst-jpg_e15&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=pbjYJKo0IMUAX_lcURc&edm=ACWDqb8AAAAA&ccb=7-5&ig_cache_key=MzIyNzkxOTMxNjQ0MzcwOTQzMA%3D%3D.2-ccb7-5&oh=00_AfCz2mqF-5n6nfsCgj751_C6dBrSPhqE8RLhIaaq5gWHnQ&oe=6573C24B&_nc_sid=ee9879" alt="meme not sharing source code out of shame" width="400" height="400"/>
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
