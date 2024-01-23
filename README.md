@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
 
-- 🌱 I’m currently learning **Advanced React Concepts & Frameworks**
+- 📖 I’m currently learning **Advanced React Concepts & Frameworks**
+
+- 🔧 I'm currently working on projects involving **Headless CMS & custom APIs**
 
 - 💬 Ask me about **React** & **Next**
 
