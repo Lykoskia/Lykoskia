@@ -39,6 +39,7 @@ I spent most of the (fittingly named) fall fixing, upgrading and polishing these
 <p align="left"> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lykoskia&show_icons=true&locale=en" alt="lykoskia" /></p>
 
