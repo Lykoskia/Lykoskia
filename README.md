@@ -5,9 +5,11 @@
 
 - 📖 I’m currently learning **Advanced React Concepts & Frameworks**
 
-- 🔧 I'm currently working on projects involving **Headless CMS & custom APIs**
+- 🛠️ I'm currently working on projects involving **Headless CMS & custom APIs**
 
 - 💬 Ask me about **React** & **Next**
+
+- 💡 I'm curious about **Vue** & **Nuxt**
 
 <h3 align="left">Before the Web:</h3>
 <p align="left">
