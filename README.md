@@ -36,10 +36,7 @@ I spent most of the (fittingly named) fall fixing, upgrading and polishing these
 <p align="left">But all the grievances aside, I feel like the reward for that absolute hell is just as amazing as the learning process was brutal. I ended up building 3 things that I'm very proud of, cutting my teeth on every step of the way, but emerging with a much deeper understanding than 3 years of tutorials had given me. After all, a project is never done, and I will probably come back to all of them to improve upon them in some way with new ideas and features. It's not over when you lose, it's over when you quit. My hundreds of uncompiled builds and failed deployments are a testament of that. Even though I ended up deleting most of the early commits.</p>
   
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lykoskia&show_icons=true&locale=en" alt="lykoskia" /></p>
 
