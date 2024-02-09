@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
 
 - 📖 I’m currently learning **Advanced React Concepts & Frameworks**
-
-- 🛠️ I'm currently working on projects involving **Headless CMS & custom APIs**
-
 - 💬 Ask me about **React** & **Next**
 
-- 💡 I'm curious about **Vue** & **Nuxt**
+- 🛠️ I'm currently working on projects involving **Headless CMS & custom APIs**
+- 📚 I'm also learning to wrap web apps into hybrid/webview Android/iOS apps with **Apache Cordova**
+
+- 💡 I'm also curious about **Vue** & **Nuxt** (0 experience)
 
 <h3 align="left">Before the Web:</h3>
 <p align="left">
