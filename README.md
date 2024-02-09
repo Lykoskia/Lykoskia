@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
 
-- 📖 I’m currently learning **Advanced React Concepts & Frameworks**
-- 💬 Ask me about **React** & **Next**
+- 📖 I’m currently learning **Advanced React Concepts & Frameworks** (primarily **Next**)
 - 🛠️ I'm currently working on projects involving **Headless CMS & custom APIs**
-- 📚 I plan on learning to wrap web apps into hybrid/webview Android/iOS apps with **Apache Cordova**
+- 📚 I'm interested in learning how to wrap web apps into hybrid/webview Android/iOS apps with **Apache Cordova**
 - 💡 I'm curious about **Vue** & **Nuxt** (0 experience)
 
 <h3 align="left">Before the Web:</h3>
