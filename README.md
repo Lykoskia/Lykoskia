@@ -5,11 +5,9 @@
 
 - 📖 I’m currently learning **Advanced React Concepts & Frameworks**
 - 💬 Ask me about **React** & **Next**
-
 - 🛠️ I'm currently working on projects involving **Headless CMS & custom APIs**
-- 📚 I'm also learning to wrap web apps into hybrid/webview Android/iOS apps with **Apache Cordova**
-
-- 💡 I'm also curious about **Vue** & **Nuxt** (0 experience)
+- 📚 I plan on learning to wrap web apps into hybrid/webview Android/iOS apps with **Apache Cordova**
+- 💡 I'm curious about **Vue** & **Nuxt** (0 experience)
 
 <h3 align="left">Before the Web:</h3>
 <p align="left">
