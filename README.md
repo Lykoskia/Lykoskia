@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Alan</h1>
-<h3 align="center">A dedicated Front-end Web Developer from Croatia</h3>
+<h3 align="center">A passionate Front-end Web Developer from Croatia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
 
 
