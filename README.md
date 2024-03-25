@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I am Alan</h1>
 <h3 align="center">A dedicated Front-end Web Developer from Croatia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
-📘 Currently enhancing my expertise in Advanced React Concepts & Frameworks, with a focus on Next.js.
-🛠️ Actively engaged in projects that incorporate Headless CMS and custom APIs.
-📚 Pursuing knowledge in transforming web applications into hybrid/webview Android/iOS apps utilizing Apache Cordova and developing new ones with React Native.
-🕵️‍♂️ Exploring Vue & Nuxt, despite having no prior experience.
+- 📘 Currently enhancing my expertise in **Advanced React Concepts & Frameworks**, with a focus on **Next.js**.
+- 🛠️ Actively engaged in projects that incorporate **Headless CMS and custom APIs**.
+- 📚 Pursuing knowledge in transforming web applications into hybrid/webview Android/iOS apps utilizing **Apache Cordova** and developing new ones with **React Native**.
+- 🕵️‍♂️ Exploring **Vue** & **Nuxt**, despite having no prior experience.
 <h3 align="left">Background:</h3>
 <p align="left">
 With over a decade of experience in administrative roles, I developed a keen interest in automation and scripting to enhance efficiency in tasks such as data manipulation and reporting in Excel. This curiosity led me to the realm of coding, despite its initial daunting aspects.
