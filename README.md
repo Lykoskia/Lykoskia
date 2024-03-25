@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I am Alan</h1>
 <h3 align="center">A dedicated Front-end Web Developer from Croatia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lykoskia&label=Profile%20views&color=0e75b6&style=flat" alt="lykoskia" /> </p>
-- 📘 Currently enhancing my expertise in **Advanced React Concepts & Frameworks**, with a focus on **Next.js**.
-- 🛠️ Actively engaged in projects that incorporate **Headless CMS and custom APIs**.
-- 📚 Pursuing knowledge in transforming web applications into hybrid/webview Android/iOS apps utilizing **Apache Cordova** and developing new ones with **React Native**.
-- 🕵️‍♂️ Exploring **Vue** & **Nuxt**, despite having no prior experience.
+- 📘 Currently enhancing my expertise in **Advanced React Concepts & Frameworks**, with a focus on **Next.js**.  
+- 🛠️ Actively engaged in projects that incorporate **Headless CMS and custom APIs**. 
+- 📚 Pursuing knowledge in transforming web applications into hybrid/webview Android/iOS apps utilizing **Apache Cordova** and developing new ones with **React Native**. 
+- 🕵️‍♂️ Exploring **Vue** & **Nuxt**, despite having no prior experience. 
 <h3 align="left">Background:</h3>
 <p align="left">
 With over a decade of experience in administrative roles, I developed a keen interest in automation and scripting to enhance efficiency in tasks such as data manipulation and reporting in Excel. This curiosity led me to the realm of coding, despite its initial daunting aspects.
 </p>
 <h3 align="left">Professional Journey:</h3>
 <p align="left">
-My venture into web development began in late 2022, starting with HTML, CSS, JavaScript, and React. My initial projects involved creating a basic website, which provided a foundational understanding of these technologies. This journey progressed into React, where I developed <a href="https://github.com/Lykoskia/react-chat">a chat application as a critical learning milestone.
+My venture into web development began in late 2022, starting with HTML, CSS, JavaScript, and React. My initial projects involved creating a basic website, which provided a foundational understanding of these technologies. This journey progressed into React, where I developed <a href="https://github.com/Lykoskia/react-chat">a chat application</a> as a critical learning milestone.
 </p>
 <p align="left">
 The subsequent period involved developing a <a href="https://github.com/Lykoskia/react-barcode-generator">Barcode Generator App</a>, a project that presented numerous challenges and learning opportunities.
