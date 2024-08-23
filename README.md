@@ -13,16 +13,16 @@ With over a decade of experience in administrative roles, I developed a keen int
 </p>
 <h3 align="left">Professional Journey:</h3>
 <p align="left">
-My venture into web development began in late 2022, starting with HTML, CSS, JavaScript, and React. My initial projects involved creating a basic website, which provided a foundational understanding of these technologies. This journey progressed into React, where I developed <a href="https://github.com/Lykoskia/react-chat">a chat application</a> as a critical learning milestone.
+My venture into web development began in late 2022, starting with HTML, CSS, JavaScript, and React. My initial projects involved creating a basic website, which provided a foundational understanding of these technologies. This journey progressed into React, where I developed <a href="https://react-chat-lykoskia.vercel.app/">a chat application</a> as a critical learning milestone.
 </p>
 <p align="left">
-The subsequent period involved developing a <a href="https://github.com/Lykoskia/react-barcode-generator">Barcode Generator App</a>, a project that presented numerous challenges and learning opportunities.
+The subsequent period involved developing a <a href="https://hub3-pdf417-barcode-generator.vercel.app/">Barcode Generator App</a>, a project that presented numerous challenges and learning opportunities.
 </p>
 <p align="left">
 I continued to refine my skills by revisiting and enhancing previous projects, such as improving the chat application by incorporating advanced features and adopting best practices in React development.
 </p>
 <p align="left">
-My exploration of Next.js and TailwindCSS marked a significant advancement in my development skills, culminating in the creation of <a href="https://github.com/Lykoskia/next-pages-volker">a sophisticated Next.js website</a>, a testament to my ability to overcome technical challenges and deliver functional and dynamic web solutions.
+My exploration of Next.js and TailwindCSS marked a significant advancement in my development skills, culminating in the creation of <a href="https://www.volkerhengst.com/">a sophisticated Next.js website</a>, a testament to my ability to overcome technical challenges and deliver functional and dynamic web solutions.
 </p>
 <h3 align="left">Technologies and Skills:</h3>
 <p align="center">
