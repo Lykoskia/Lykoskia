@@ -61,4 +61,5 @@ I love the moment when a complex problem becomes a simple solution. Whether it's
 
 ---
 
-*"Turning repetitive tasks into automated solutions, one commit at a time."*
+> **I fear not the team that handcrafted a document 10.000 times in three months, but the man who wrote a script to craft 10.000 documents in a day." **  
+> — *Bruce Lee, probably*
