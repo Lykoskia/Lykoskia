@@ -33,6 +33,8 @@ I've developed several web tools for workflow optimization:
 - **[PDF417 Barcode Generator](https://fin-apps.vercel.app/bcg)** - HUB3 standard compliant
 - **[Real-time Chat App](https://nextjs-chat.up.railway.app/)** - WebSocket-powered user communication
 - **[Demographics Dashboard](https://hr-vis.vercel.app/)** - Interactive data visualization
+- **[Headless](https://www.elan-living.com/) [Websites](https://www.elan-homecare.com/)** - Optimized custom websites + headless CMS
+- **[Modern Next.js Website](https://aquacentar.vercel.app/)** - Modern, performant custom website with PPR
 
 ## 🌱 Learning Philosophy
 
