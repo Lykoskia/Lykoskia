@@ -28,7 +28,7 @@ I've developed several web tools for workflow optimization:
 - **Certificate Generator** - Web version of my automation system
 
 *Currently rebuilding these with Spring Boot backend + Next.js App Router frontend*
-- **[The app can be found here](https://cowebapps.vercel.app/)** - Progress: 8 out of 9 apps done, currently still working on the AO Fleet calculator (04.08.2025.)
+- **[The app can be found here](https://cowebapps.vercel.app/)** - Progress: 9 out of 9 apps done, currently implementing some additional mini-features (05.08.2025.)
 
 ### Personal Projects
 - **[PDF417 Barcode Generator](https://fin-apps.vercel.app/bcg)** - HUB3 standard compliant
